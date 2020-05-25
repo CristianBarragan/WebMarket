@@ -1,0 +1,12 @@
+D:\Cristian\core\WebMarket\WebMarket\WebMarket.Data\bin\Debug\netstandard2.0\WebMarket.Data.deps.json
+D:\Cristian\core\WebMarket\WebMarket\WebMarket.Data\bin\Debug\netstandard2.0\WebMarket.Data.dll
+D:\Cristian\core\WebMarket\WebMarket\WebMarket.Data\bin\Debug\netstandard2.0\WebMarket.Data.pdb
+D:\Cristian\core\WebMarket\WebMarket\WebMarket.Data\bin\Debug\netstandard2.0\WebMarket.Model.dll
+D:\Cristian\core\WebMarket\WebMarket\WebMarket.Data\bin\Debug\netstandard2.0\WebMarket.Model.pdb
+D:\Cristian\core\WebMarket\WebMarket\WebMarket.Data\obj\Debug\netstandard2.0\WebMarket.Data.csprojAssemblyReference.cache
+D:\Cristian\core\WebMarket\WebMarket\WebMarket.Data\obj\Debug\netstandard2.0\WebMarket.Data.csproj.CoreCompileInputs.cache
+D:\Cristian\core\WebMarket\WebMarket\WebMarket.Data\obj\Debug\netstandard2.0\WebMarket.Data.AssemblyInfoInputs.cache
+D:\Cristian\core\WebMarket\WebMarket\WebMarket.Data\obj\Debug\netstandard2.0\WebMarket.Data.AssemblyInfo.cs
+D:\Cristian\core\WebMarket\WebMarket\WebMarket.Data\obj\Debug\netstandard2.0\WebMarket.Data.csproj.CopyComplete
+D:\Cristian\core\WebMarket\WebMarket\WebMarket.Data\obj\Debug\netstandard2.0\WebMarket.Data.dll
+D:\Cristian\core\WebMarket\WebMarket\WebMarket.Data\obj\Debug\netstandard2.0\WebMarket.Data.pdb

@@ -1,0 +1,12 @@
+D:\Cristian\core\WebMarket\WebMarket\WebMarket.Model\bin\Debug\netstandard2.0\WebMarket.Model.deps.json
+D:\Cristian\core\WebMarket\WebMarket\WebMarket.Model\bin\Debug\netstandard2.0\WebMarket.Model.dll
+D:\Cristian\core\WebMarket\WebMarket\WebMarket.Model\bin\Debug\netstandard2.0\WebMarket.Model.pdb
+D:\Cristian\core\WebMarket\WebMarket\WebMarket.Model\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+D:\Cristian\core\WebMarket\WebMarket\WebMarket.Model\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml
+D:\Cristian\core\WebMarket\WebMarket\WebMarket.Model\obj\Debug\netstandard2.0\WebMarket.Model.csproj.CoreCompileInputs.cache
+D:\Cristian\core\WebMarket\WebMarket\WebMarket.Model\obj\Debug\netstandard2.0\WebMarket.Model.AssemblyInfoInputs.cache
+D:\Cristian\core\WebMarket\WebMarket\WebMarket.Model\obj\Debug\netstandard2.0\WebMarket.Model.AssemblyInfo.cs
+D:\Cristian\core\WebMarket\WebMarket\WebMarket.Model\obj\Debug\netstandard2.0\WebMarket.Model.csproj.CopyComplete
+D:\Cristian\core\WebMarket\WebMarket\WebMarket.Model\obj\Debug\netstandard2.0\WebMarket.Model.dll
+D:\Cristian\core\WebMarket\WebMarket\WebMarket.Model\obj\Debug\netstandard2.0\WebMarket.Model.pdb
+D:\Cristian\core\WebMarket\WebMarket\WebMarket.Model\obj\Debug\netstandard2.0\WebMarket.Model.csprojAssemblyReference.cache
